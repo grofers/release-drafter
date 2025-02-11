@@ -1,3 +1,4 @@
+// hellow world
 const core = require('@actions/core')
 const { run } = require('@probot/adapter-github-actions')
 const releaseDrafter = require('./index')
